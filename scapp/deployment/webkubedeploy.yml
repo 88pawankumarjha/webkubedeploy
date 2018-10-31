@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: myapache
-        image: mohanraz81/myapache3110:1.0
+        image: mohanraz81/myapache3110
         ports:
         - containerPort: 80
         resources:
